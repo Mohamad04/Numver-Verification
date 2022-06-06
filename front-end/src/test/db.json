@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "629cd163ae48b6280a860edd",
+        "name": "Asaad",
+        "address": "Lebanon",
+        "phone": 96171675634,
+        "__v": 0
+    },
+    {
+        "_id": "629ce25663dba5327b632dd3",
+        "name": "Mohamad Serhan",
+        "address": "Lebanon",
+        "phone": 96181692754,
+        "__v": 0
+    },
+    {
+        "_id": "629cff3715e14d7be6bb6374",
+        "name": "Sara",
+        "address": "Germany",
+        "phone": 96176281509,
+        "__v": 0
+    }
+]
